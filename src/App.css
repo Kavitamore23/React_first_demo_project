@@ -1,0 +1,32 @@
+.header
+{
+  background-color: lightsalmon;
+  padding: 20px;
+  margin: 10px;
+}
+.Product
+{
+  width: 100%;
+  display:flex;
+}
+
+.products_list
+{
+  background-color:aqua;
+  padding : 20px;
+  margin : 20px;
+  width: fit-content;
+
+}
+.img
+{
+  width: 200px;
+}
+.btn
+{
+  padding: 13px 35px;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+
+}
